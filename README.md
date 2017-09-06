@@ -95,3 +95,4 @@ Join the mailing list at our [Google group](http://groups.google.com/group/rest-
 * [Change log](https://github.com/rest-assured/rest-assured/raw/master/changelog.txt)
 * REST Assured on [Ohloh](https://www.ohloh.net/p/rest-assured)
 * [Mailing list](http://groups.google.com/group/rest-assured) for questions and support
+# rest-assured
